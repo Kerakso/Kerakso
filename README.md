@@ -8,11 +8,11 @@
 <br>
 
 > On the Internet, people call me **Kerakso**.
-I'm a backend developer from Poland who's has been coding for over __5 years__.
+I'm a backend developer from Poland who's has been coding for over __8 years__.
 
-<sub>🍬 I'm currently working on Discord Bot game created in JS. 🍬<br>
-What I can do: *HTML, CSS/SASS, JavaScript (NodeJS, Express), basics of C++*<br>
-What I wanna to learn: *TypeScript, C#*</sub>
+<sub>🍬 I'm currently working on Discord Bot game created in TypeScript. 🍬<br>
+What I can do: *HTML, CSS/SASS, JavaScript/TypeScript (NodeJS, Express), basics of C++*<br>
+What I wanna to learn: *C#*</sub>
 
 
 <sub>😡 Python hater #1 🤬</sub>
